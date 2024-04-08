@@ -1,0 +1,1 @@
+g++ q1DDA.cpp -o Hut -I"C:/MingW/mingw32/include" -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
